@@ -1,3 +1,6 @@
+# Explicit Files
+private_configs.json
+
 # Logs
 logs
 *.log
@@ -78,3 +81,4 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
