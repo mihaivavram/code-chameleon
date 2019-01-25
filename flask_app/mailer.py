@@ -37,4 +37,5 @@ def index():
 
 
 if __name__ == '__main__':
+	a = 2
 	app.run(debug=True)
